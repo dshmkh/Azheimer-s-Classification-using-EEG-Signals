@@ -7,4 +7,4 @@ Python:
 The classification is done using a 1-D CNN algorithm with an LSTM.
 
 Refer to this publication for further details on all steps followed:
-https://www.academia.edu/download/100488578/11573.pdf
+https://doi.org/10.3991/ijoe.v18i08.29867
